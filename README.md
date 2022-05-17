@@ -1,5 +1,5 @@
 
-# QuantLib: the free/open-source library for quantitative finance
+# QuantLib: open-source library for quantitative finance
 
 [![Download](https://img.shields.io/github/v/release/lballabio/QuantLib?label=Download&sort=semver)](https://github.com/lballabio/QuantLib/releases/latest)
 [![Licensed under the BSD 3-Clause License](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](https://github.com/lballabio/QuantLib/blob/master/LICENSE.TXT)
